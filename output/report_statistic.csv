@@ -1,0 +1,14 @@
+Stats,Value
+Total Tweet Abusive,2712
+Max,11
+Min,2
+Mean,2.437315634218289
+Mode,2
+Median,2.0
+Range,9
+Min Outlier,Tidak ada outlier dari sisi batas bawah
+Max Outlier,Ada outlier dari sisi batas atas
+Variance,0.6430629501354147
+Standard Deviation,0.801912058853971
+Skewnes,2.846151542341443
+Kurtosis,13.92432786933736
